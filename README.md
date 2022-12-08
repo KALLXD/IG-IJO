@@ -1,6 +1,6 @@
 # IG-IJO
 
-$git clone https://github.com/KALLXD/IG-IJO
+$SC SUDAH DI HAPUS TOLONG HUBUNGI OWNER JIKA INGIN PAKEK 😂
 
 $cd IGPREM
 
